@@ -4,6 +4,7 @@
 #### ToDo
 
  - [x] Add TodoList for next components
+ - [ ] Enable CI/CD
  - [ ] Add Lerna
  - [ ] Add Husky
  - [ ] Provider, Theme
