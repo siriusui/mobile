@@ -1,0 +1,35 @@
+version: 2.1
+jobs:
+    build:
+        docker:
+            - image: cimg/node:14.10.1 # the primary container, where your job's commands are run
+        steps:
+            - checkout
+            - run: echo "installing modules"
+            # - run: yarn install
+            # - run: CI=true npm run build // no build commands available yet
+    test:
+        docker:
+            - image: cimg/node:14.10.1
+        steps:
+            - checkout
+            - run: echo "Testing Started!"
+            # - run: yarn install
+            # - run: npm test
+
+    log:
+        docker:
+            - image: cimg/node:14.10.1
+        steps:
+            - checkout
+            - run: echo "Done Log!"
+
+workflows:
+    version: 2
+    build_and_test:
+        jobs:
+            - build
+            - log
+            - test:
+                  requires:
+                      - log # will wait until log finish then will be able to start test

@@ -1,0 +1,33 @@
+{
+  "name": "rn-siriusui",
+  "version": "0.0.1",
+  "description": "React Native UI Library",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siriusui/mobile.git"
+  },
+  "keywords": [
+    "ui",
+    "components",
+    "react-native"
+  ],
+  "author": {
+    "name": "Mustafa Elsayed",
+    "email": "mskyer@protonmail.com",
+    "url": "https://twitter.com/mustafaskyer"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siriusui/mobile/issues"
+  },
+  "homepage": "https://github.com/siriusui/mobile#readme",
+  "devDependencies": {
+    "husky": "^5.1.0",
+    "lint-staged": "^10.5.4",
+    "prettier": "^2.2.1"
+  }
+}
