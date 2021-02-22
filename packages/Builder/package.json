@@ -38,5 +38,6 @@
     "@rollup/plugin-node-resolve": "^11.2.0",
     "metro-react-native-babel-preset": "^0.65.1",
     "rollup": "^2.39.0"
-  }
+  },
+  "gitHead": "ad479a7049d55ce1006920a778a533c19bb97c88"
 }
