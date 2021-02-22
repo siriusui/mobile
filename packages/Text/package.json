@@ -29,7 +29,12 @@
     "url": "https://github.com/siriusui/mobile/issues"
   },
   "devDependencies": {
-    "@siriusui/builder": "^0.3.1"
+    "@siriusui/builder": "^0.3.1",
+    "react": "^17.0.1",
+    "react-native": "^0.63.4"
   },
-  "gitHead": "7c893c5df655623d9529e1bec70f20906a52c721"
+  "gitHead": "7c893c5df655623d9529e1bec70f20906a52c721",
+  "dependencies": {
+    "styled-components": "^5.2.1"
+  }
 }
