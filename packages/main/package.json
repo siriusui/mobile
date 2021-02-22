@@ -29,11 +29,11 @@
     "url": "https://github.com/siriusui/mobile/issues"
   },
   "dependencies": {
-    "@siriusui/Button": "^0.2.0",
-    "@siriusui/Text": "^0.2.0"
+    "@siriusui/button": "^0.2.0",
+    "@siriusui/text": "^0.2.0"
   },
   "devDependencies": {
-    "@siriusui/Builder": "^0.2.0"
+    "@siriusui/builder": "^0.2.0"
   },
-  "gitHead": "b7f6fd0796d0ba612ba16bdfccaab99005559aa4"
+  "gitHead": "5f6b48f3c67f1d6138fc28fd535dc2f7aa281b0b"
 }

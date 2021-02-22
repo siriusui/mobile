@@ -1,5 +1,5 @@
 {
-  "name": "@siriusui/Text",
+  "name": "@siriusui/text",
   "version": "0.2.0",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -29,7 +29,7 @@
     "url": "https://github.com/siriusui/mobile/issues"
   },
   "devDependencies": {
-    "@siriusui/Builder": "^0.2.0"
+    "@siriusui/builder": "^0.2.0"
   },
-  "gitHead": "b7f6fd0796d0ba612ba16bdfccaab99005559aa4"
+  "gitHead": "5f6b48f3c67f1d6138fc28fd535dc2f7aa281b0b"
 }

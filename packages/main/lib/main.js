@@ -1,6 +1,6 @@
 'use strict';
 
-import { Button } from '@siriusui/Button'
-import { Text } from '@siriusui/Text'
+import { Button } from '@siriusui/button'
+import { Text } from '@siriusui/text'
 
 export { Button, Text } 

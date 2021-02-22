@@ -2,6 +2,6 @@
 
 const text = require('..');
 
-describe('@siriusui/Text', () => {
+describe('@siriusui/text', () => {
     it('needs tests');
 });

@@ -1,11 +1,11 @@
-# `@siriusui/Builder`
+# `@siriusui/builder`
 
 > TODO: description
 
 ## Usage
 
 ```
-const builder = require('@siriusui/Builder');
+const builder = require('@siriusui/builder');
 
 // TODO: DEMONSTRATE API
 ```

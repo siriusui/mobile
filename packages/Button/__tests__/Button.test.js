@@ -2,6 +2,6 @@
 
 const button = require('..');
 
-describe('@siriusui/Button', () => {
+describe('@siriusui/button', () => {
     it('needs tests');
 });

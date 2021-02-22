@@ -2,6 +2,6 @@
 
 const builder = require('..');
 
-describe('@siriusui/Builder', () => {
+describe('@siriusui/builder', () => {
     it('needs tests');
 });
