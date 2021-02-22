@@ -10,5 +10,10 @@
     "npmClientArgs": [
       "--no-package-lock"
     ]
+  },
+  "publish": {
+    "conventionalCommits": true,
+    "ignoreChanges": ["**/tests/**"],
+    "allowBranch": "master"
   }
 }
