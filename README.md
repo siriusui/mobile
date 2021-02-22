@@ -4,9 +4,9 @@
 #### ToDo
 
  - [x] Add TodoList for next components
- - [ ] Enable CI/CD
- - [ ] Add Lerna
- - [ ] Add Husky
+ - [x] Enable CI/CD
+ - [x] Add Lerna
+ - [x] Add Husky
  - [ ] Provider, Theme
  - [ ] Layout (Container, View, Row, Center, Wrapper, Col, Spacer, Divider)
  - [ ] Avatar, Image
