@@ -1,0 +1,21 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "0.3.1",
+  "registry": "https://registry.npmjs.org/",
+  "hoist": true,
+  "stream": true,
+  "bootstrap": {
+    "npmClientArgs": [
+      "--no-package-lock"
+    ]
+  },
+  "publish": {
+    "conventionalCommits": true,
+    "ignoreChanges": [
+      "**/tests/**"
+    ],
+    "allowBranch": "master"
+  }
+}
