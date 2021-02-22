@@ -1,0 +1,43 @@
+{
+  "name": "@siriusui/builder",
+  "version": "0.3.1",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "bin": {
+    "builder": "./lib/Builder.js"
+  },
+  "author": "Mustafa Elsayed <mskyer@protonmail.com>",
+  "homepage": "https://github.com/siriusui/mobile/tree/master/packages/Builder#readme",
+  "license": "ISC",
+  "main": "lib/Builder.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siriusui/mobile.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/siriusui/mobile/issues"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
+    "@babel/preset-react": "^7.12.13",
+    "@rollup/plugin-babel": "^5.3.0",
+    "@rollup/plugin-node-resolve": "^11.2.0",
+    "metro-react-native-babel-preset": "^0.65.1",
+    "rollup": "^2.39.0"
+  },
+  "gitHead": "7c893c5df655623d9529e1bec70f20906a52c721"
+}
