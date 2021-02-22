@@ -1,6 +1,6 @@
 {
   "name": "@siriusui/main",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "Mustafa Elsayed <mskyer@protonmail.com>",
@@ -29,11 +29,11 @@
     "url": "https://github.com/siriusui/mobile/issues"
   },
   "dependencies": {
-    "@siriusui/Button": "^0.1.1",
-    "@siriusui/Text": "^0.1.1"
+    "@siriusui/Button": "^0.2.0",
+    "@siriusui/Text": "^0.2.0"
   },
   "devDependencies": {
-    "@siriusui/Builder": "^0.1.1"
+    "@siriusui/Builder": "^0.2.0"
   },
   "gitHead": "b7f6fd0796d0ba612ba16bdfccaab99005559aa4"
 }
