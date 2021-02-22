@@ -1,0 +1,35 @@
+{
+  "name": "@siriusui/text",
+  "version": "0.3.1",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "author": "Mustafa Elsayed <mskyer@protonmail.com>",
+  "homepage": "https://github.com/siriusui/mobile/tree/master/packages/Text#readme",
+  "license": "ISC",
+  "main": "lib/Text.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siriusui/mobile.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "builder"
+  },
+  "bugs": {
+    "url": "https://github.com/siriusui/mobile/issues"
+  },
+  "devDependencies": {
+    "@siriusui/builder": "^0.3.1"
+  },
+  "gitHead": "7c893c5df655623d9529e1bec70f20906a52c721"
+}

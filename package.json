@@ -4,7 +4,8 @@
   "description": "React Native UI Library",
   "main": "index.ts",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "build":  "lerna run build"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
   "homepage": "https://github.com/siriusui/mobile#readme",
   "devDependencies": {
     "husky": "^5.1.0",
+    "lerna": "^3.22.1",
     "lint-staged": "^10.5.4",
     "prettier": "^2.2.1"
   }
