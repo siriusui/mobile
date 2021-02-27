@@ -43,4 +43,4 @@
 ### 
 - [ ] useDevice - (height,width)
 - [ ] useNetwork
-- [ ] ...etc
+- [ ] ....etc
